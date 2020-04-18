@@ -5,7 +5,7 @@ A messaging chat app for android & ios made in flutter
 ![icon](images/SS.png)
 
 
-**Featurs**
+> **Featurs**
   - Register
   - Login
   - Chat Screen
