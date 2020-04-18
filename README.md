@@ -1,6 +1,6 @@
 # Messaging app 
 
-A messaging chat app for android & ios made in flutter
+A messaging chat app for android & ios made with flutter ♥️
 
 ![icon](images/SS.png)
 
